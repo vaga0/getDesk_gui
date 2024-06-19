@@ -6,8 +6,11 @@ You can use it to replace the banned Windows screenshot function.
 - Customize the save directory.
 - Delayed screenshot.
 
-## install
+## How install
 pip install -r requirements.txt
 
-## make .exe
+## Make .exe
 pyinstaller --opnefile --noconsole getDesk.py
+
+## Others
+The Python version used for development is 3.12.0.
