@@ -1,5 +1,5 @@
 # getDesk_gui
-Print your screen
+You can use it to replace the banned Windows screenshot function.
 
 ## install
 pip install -r requirements.txt
