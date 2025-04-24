@@ -1,3 +1,5 @@
+![Interface](document/images/interface.png)
+
 # getDesk_gui
 You can use it to replace the banned Windows screenshot function.
 
